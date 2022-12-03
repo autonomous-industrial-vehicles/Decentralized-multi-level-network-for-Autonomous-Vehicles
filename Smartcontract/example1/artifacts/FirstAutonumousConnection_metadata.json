@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.11+commit.d7f03943"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Connection",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Smartcontract/example1/conect_chain.sol": "FirstAutonumousConnection"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Smartcontract/example1/conect_chain.sol": {
+			"keccak256": "0xdb046b9c272b6cef5b274e610fbb5031037c570c997d3b04196526aa767ac939",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://148f838e3097ad236ae1d8c03b3010d32b3ebfa7b5b0dc5fc781f2fad927edf8",
+				"dweb:/ipfs/QmQYpNpPCA87H6uyMK8HDuy44EpiZmwv5hCUG2ypAy9MET"
+			]
+		}
+	},
+	"version": 1
+}
